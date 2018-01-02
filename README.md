@@ -10,13 +10,13 @@ This section is destined to get rich.
 
 ### Other Projects
 
-This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam lobortis bibendum. Vivamus eleifend metus mollis laoreet ultricies. Proin ante metus, sollicitudin et dui in, maximus iaculis arcu. Nulla eu ultricies nulla.
 
 For more details see [Buggy Code Segments]().
 
 ### Empty Section
 
-This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam lobortis bibendum. Vivamus eleifend metus mollis laoreet ultricies. Proin ante metus, sollicitudin et dui in, maximus iaculis arcu. Nulla eu ultricies nulla. Integer sit amet vehicula massa. Quisque dapibus id odio quis dapibus. Duis sodales, leo sit amet viverra malesuada, tellus neque pellentesque mauris, vel pharetra ante tortor a nisi. Duis non ligula ac mi suscipit tristique id quis massa. 
 
 ### Ask Me & Reach Me
 
