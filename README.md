@@ -4,7 +4,7 @@ You can find all of my GitHub projects below. I arranged them in release order s
 
 - [Java & Arduino presents: My Smart House](https://github.com/ufukozdogan/akilli-evim)
 
-- (Java Swing Quiz Game](https://github.com/ufukozdogan/java-swing-quizgame)
+- [Java Swing Quiz Game](https://github.com/ufukozdogan/java-swing-quizgame)
 
 This section is destined to get rich.
 
