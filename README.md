@@ -2,9 +2,9 @@
 
 You can find all of my GitHub projects below. I arranged them in release order so it's more easy to track.
 
-- [Java & Arduino presents: My Smart House](https://github.com/ufukozdogan/akilli-evim)
+- [Smart House](https://github.com/ufukozdogan/akilli-evim): Made by using Arduino, couple of sensors and Java enviroment.
 
-- [Java Swing Quiz Game](https://github.com/ufukozdogan/java-swing-quizgame)
+- [Quiz Game](https://github.com/ufukozdogan/java-swing-quizgame): Amateur work made by Java Swing
 
 This section is destined to get rich.
 
