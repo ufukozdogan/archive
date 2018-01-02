@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## My GitHub Projects
 
-You can use the [editor on GitHub](https://github.com/ufukozdogan/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can find all of my GitHub projects below. I arranged them in release order so it's more easy to track.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Java & Arduino presents: My Smart House](https://github.com/ufukozdogan/akilli-evim)
 
-### Markdown
+- (Java Swing Quiz Game](https://github.com/ufukozdogan/java-swing-quizgame)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This section is destined to get rich.
 
-```markdown
-Syntax highlighted code block
+### Other Projects
 
-# Header 1
-## Header 2
-### Header 3
+This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. 
 
-- Bulleted
-- List
+For more details see [Buggy Code Segments]().
 
-1. Numbered
-2. List
+### Empty Section
 
-**Bold** and _Italic_ and `Code` text
+This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. This section is here for nothing but testing. 
 
-[Link](url) and ![Image](src)
-```
+### Ask Me & Reach Me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ufukozdogan/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+No idea why you would do that but just in case I'll put this information here. You can reach me via e-mail only. Because that's how I want it, mmkay? And I wrote my e-mail pretty much everywhere so it's up to your skills actually.
