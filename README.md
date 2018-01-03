@@ -2,9 +2,11 @@
 
 You can find all of my GitHub projects below. I arranged them in release order so it's more easy to track.
 
-- [Smart House](https://github.com/ufukozdogan/akilli-evim): Made by using Arduino, couple of sensors and Java enviroment.
+- [Smart House](https://github.com/ufukozdogan/akilli-evim): Made by using Arduino, couple of sensors and Java environment.
 
 - [Quiz Game](https://github.com/ufukozdogan/java-swing-quizgame): Amateur work made by Java Swing
+
+- [Find-S Algorithm](https://github.com/ufukozdogan/find-s)
 
 This section is destined to get rich.
 
