@@ -24,6 +24,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam lobortis 
 
 ### Ask Me & Reach Me
 
-No idea why you would do that but just in case I'll put this information here. You can reach me via e-mail only. Because that's how I want it, mmkay? And I wrote my e-mail pretty much everywhere so it's up to your skills actually.
+You can reach me via LinkedIn
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="tr_TR" data-type="horizontal" data-theme="dark" data-vanity="ufukozdogan"><a class="LI-simple-link" href='https://tr.linkedin.com/in/ufukozdogan?trk=profile-badge'>Ufuk Özdoğan</a></div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="tr_TR" data-type="horizontal" data-theme="light" data-vanity="ufukozdogan"><a class="LI-simple-link" href='https://tr.linkedin.com/in/ufukozdogan?trk=profile-badge'>Ufuk Özdoğan</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="tr_TR" data-type="vertical" data-theme="dark" data-vanity="ufukozdogan"><a class="LI-simple-link" href='https://tr.linkedin.com/in/ufukozdogan?trk=profile-badge'>Ufuk Özdoğan</a></div>
+
