@@ -26,3 +26,7 @@ You can reach me via LinkedIn
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="tr_TR" data-type="vertical" data-theme="dark" data-vanity="ufukozdogan"><a class="LI-simple-link" href='https://tr.linkedin.com/in/ufukozdogan?trk=profile-badge'>Ufuk Özdoğan</a></div>
 
+Or you can just mail me.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mail_iOS.svg/2000px-Mail_iOS.svg.png" alt="alt text" width="500" height="500">
+
+
