@@ -16,10 +16,11 @@ No current other projects.
 
 ### Ask Me & Reach Me
 
-You can reach me via LinkedIn
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mail_iOS.svg/2000px-Mail_iOS.svg.png" alt="Mail Icon" width="20" height="20"> ####My E-Mail Address: dev.ufukozdogan@gmail.com
+
+####My LinkedIn Profile
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="tr_TR" data-type="vertical" data-theme="dark" data-vanity="ufukozdogan"><a class="LI-simple-link" href='https://tr.linkedin.com/in/ufukozdogan?trk=profile-badge'>Ufuk Özdoğan</a></div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mail_iOS.svg/2000px-Mail_iOS.svg.png" alt="Mail Icon" width="20" height="20"> My Mail: dev.ufukozdogan@gmail.com
+
 
 
