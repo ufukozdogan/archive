@@ -2,6 +2,8 @@
 
 You can find all of my GitHub projects below. I arranged them in release order so it's more easy to track.
 
+- [Harvesting With Newton](https://github.com/ufukozdogan/harvestingwithnewton): Simple React.js Game with some apples and a cute tree! Upon clicking the button tree starts to shake.
+
 - [Smart House](https://github.com/ufukozdogan/akilli-evim): Made by using Arduino, couple of sensors and Java environment.
 
 - [Quiz Game](https://github.com/ufukozdogan/java-swing-quizgame): Amateur work made by Java Swing
